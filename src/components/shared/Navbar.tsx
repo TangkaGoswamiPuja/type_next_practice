@@ -15,7 +15,7 @@ const Navbar = () => {
 
 <div >
 <header className="bg-white ">
-    <nav className=" flex max-w-7xl mx-auto px-2  gap-5 justify-between mt-6 sm:px-6  lg:flex-row px-8  ">
+    <nav className=" flex max-w-7xl mx-auto gap-5 justify-between mt-6 sm:px-6  lg:flex-row px-8 ">
         {/* logo */}
         <div >  
             <Link  href="/" className="flex gap-2 "><Image src="/logo.png" alt="logo" width={40} height={40} /> <span className="text-2xl font-bold">Nexcent</span></Link>
