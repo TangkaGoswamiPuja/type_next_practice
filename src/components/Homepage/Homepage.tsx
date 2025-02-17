@@ -8,7 +8,7 @@ import "swiper/css/pagination";
 import Image from "next/image";
 const Homepage = () => {
   return (
-      <div className="w-full my-7 max-w-7xl mx-auto">
+      <div className="w-full my-7 h-[590px] bg-[#F5F7FA] max-w-7xl mx-auto">
         <Swiper
           modules={[Pagination]}
           spaceBetween={50}
