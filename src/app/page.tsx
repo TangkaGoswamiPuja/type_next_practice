@@ -1,11 +1,10 @@
-import Image from "next/image";
+import Homepage from "@/components/Homepage/Homepage";
 
 export default function Home() {
   return (
 <div>
-  main
+  <Homepage />
 
-  <Image src="/logo.png" alt="Nexcent" width={40} height={40} />
 </div>
   );
 }
