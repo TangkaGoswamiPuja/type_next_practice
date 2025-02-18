@@ -19,7 +19,7 @@ const Navbar = () => {
         {/* logo */}
         <div >  
             <Link  href="/" className="flex gap-2 "><Image src="/logo.png" alt="logo" width={40} height={40} /> <span className="text-2xl font-bold">Nexcent</span></Link>
-        </div>
+        </div> 
         {/* menu */}
 
 <NavigationMenu className="hidden lg:flex">
