@@ -10,7 +10,7 @@ const Caring = () => {
           lg: text-[36px] font-[600]  leading-[44px]  ">
           Caring is the new marketing               </h1>
         <p className="text-[#717171] text-[16px] font-[400]  leading-[24px] mt-2">
-          The Nexcent blog is the best place to read about the latest membership insights,<br></br> trends and more. See who's joining the community, read about how our community<br></br> are increasing their membership income and lot's more.​            </p>
+          The Nexcent blog is the best place to read about the latest membership insights,<br></br> trends and more. See who&#39;s joining the community, read about how our community<br></br> are increasing their membership income and lot&#39;s more.​            </p>
       </div>
       {/* image and text */}
 
