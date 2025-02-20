@@ -5,7 +5,7 @@ const Local = () => {
   return (
     <div className='w-full my-12 max-w-7xl mx-auto'>
       <div className=" bg-[#F5F7FA]  lg:flex justify-evenly p-10">
-        <div className="py-20 px-[20] ">
+        <div className="py-[20px] px-[20px] ">
           <h1 className="text-[#4D4D4D]
         lg: text-[36px] font-[600]  leading-[44px]  ">Helping a local<br></br> <span className="text-[#4CAF4F]">business reinvent itself</span> </h1>
           <p className="text-[#717171] text-[16px] font-[400]">We reached here with our hard work and dedication</p>

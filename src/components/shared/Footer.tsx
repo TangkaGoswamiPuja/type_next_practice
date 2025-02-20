@@ -3,7 +3,7 @@ import { Input } from "@/components/ui/input"
 
 const Footer = () => {
     return (
-        <div className=" flex flex-col justify-evenly mx-auto bg-[#263238] w-full py-[165] px-[64] gap-[40] lg:flex-row h-328">
+        <div className=" flex flex-col justify-evenly mx-auto bg-[#263238] w-full py-[165px] px-[64px] gap-[40px] lg:flex-row h-[328px]">
             {/* 1st part */}
             <div>
                 <div className="flex gap-2 " >
@@ -67,11 +67,11 @@ const Footer = () => {
                 </h1>
 
                 <div className="flex justify-between mt-4">
-                    <Input type="email" placeholder="Your email address " className=" h-[40] rounded-[4px]  text-[#e5e6eb] text-[14px] font-[400] leading-[20px] opacity-[20%] bg-[#FFFFFF]  px-[10] py-[10]
-                    border-[1px] border-[#D9DBE1] lg:w-[255]
+                    <Input type="email" placeholder="Your email address " className=" h-[40px] rounded-[4px]  text-[#e5e6eb] text-[14px] font-[400] leading-[20px] opacity-[20%] bg-[#FFFFFF]  px-[10px] py-[10px]
+                    border-[1px] border-[#D9DBE1] lg:w-[255px]
 " />
                      
-               <div className=" md:mr-[-30]  lg:ml-[-30] mt-[10]"> <Image src="/send.png" alt="logo" width={18} height={18} /></div>
+               <div className=" md:mr-[-30px]  lg:ml-[-30px] mt-[10px]"> <Image src="/send.png" alt="logo" width={18} height={18} /></div>
                 </div>
             </div>
 

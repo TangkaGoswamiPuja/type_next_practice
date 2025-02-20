@@ -18,11 +18,11 @@ const Homepage = () => {
         >
           <SwiperSlide>
             <div className=" bg-[#F5F7FA]  lg:flex items-center justify-between p-10">
-            <div className="py-[20px] px-[20] ">
+            <div className="py-[20px] px-[20px] ">
                 <h1 className="text-[#4D4D4D]
   lg: text-[64px] font-[600]  leading-[76px]  ">Lessons and insights<br></br> <span className="text-[#4CAF4F]">from 8 years</span> </h1>
                 <p  className="text-[#717171] text-[16px] font-[400]">Where to grow your business as a photographer: site or social media?</p>
-                <button className="bg-[#4CAF4F] px-[32] py-[14] mt-3 text-white rounded-sm">Register</button>
+                <button className="bg-[#4CAF4F] px-[32px] py-[14px] mt-3 text-white rounded-sm">Register</button>
               </div>
               <div>
                 <Image src="/Illustration.png" alt="Illustration" width={391} height={407} className="" />
@@ -31,11 +31,11 @@ const Homepage = () => {
           </SwiperSlide>
           <SwiperSlide>
           <div className=" bg-[#F5F7FA]  lg:flex items-center justify-between p-10">
-            <div className="py-20 px-[20] ">
+            <div className="py-[20px] px-[20px] ">
                 <h1 className="text-[#4D4D4D]
   lg: text-[64px] font-[600]  leading-[76px]  ">Build Up Your Lessons<br></br> <span className="text-[#4CAF4F]">With Us</span> </h1>
                 <p  className="text-[#717171] text-[16px] font-[400]">Where to grow your business as a photographer: site or social media?</p>
-                <button className="bg-[#4CAF4F] px-[32] py-[14] mt-3 text-white rounded-sm">Register</button>
+                <button className="bg-[#4CAF4F] px-[32px] py-[14px] mt-3 text-white rounded-sm">Register</button>
               </div>
               <div>
                 <Image src="/Illustration.png" alt="Illustration" width={391} height={407} className="" />
@@ -44,11 +44,11 @@ const Homepage = () => {
           </SwiperSlide>
           <SwiperSlide>
           <div className=" bg-[#F5F7FA]  lg:flex items-center justify-between p-10">
-            <div className="py-20 px-[20] ">
+            <div className="py-[20px] px-[20px] ">
                 <h1 className="text-[#4D4D4D]
   lg: text-[64px] font-[600]  leading-[76px]  ">Our Active Helpinghand <br></br> <span className="text-[#4CAF4F]">Always For You</span> </h1>
                 <p  className="text-[#717171] text-[16px] font-[400]">Where to grow your business as a photographer: site or social media?</p>
-                <button className="bg-[#4CAF4F] px-[32] py-[14] mt-3 text-white rounded-sm">Register</button>
+                <button className="bg-[#4CAF4F] px-[32px] py-[14px] mt-3 text-white rounded-sm">Register</button>
               </div>
               <div>
                 <Image src="/Illustration.png" alt="Illustration" width={391} height={407} className="" />

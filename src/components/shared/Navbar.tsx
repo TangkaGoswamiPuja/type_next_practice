@@ -42,11 +42,11 @@ const Navbar = () => {
     <NavigationMenuItem>
       <NavigationMenuTrigger>Home</NavigationMenuTrigger>
       <NavigationMenuContent className="flex flex-col gap-4 p-7 ">
-      <NavigationMenuLink className="bg-[#4CAF4F] px-[20] py-[10] text-white rounded-xl">Service</NavigationMenuLink>
-        <NavigationMenuLink className="bg-[#4CAF4F] px-[20] py-[10] text-white rounded-xl">Feature</NavigationMenuLink>
-        <NavigationMenuLink className="bg-[#4CAF4F] px-[20] py-[10] text-white rounded-xl">Product</NavigationMenuLink>
-        <NavigationMenuLink className="bg-[#4CAF4F] px-[20] py-[10] text-white rounded-xl">Testimonial</NavigationMenuLink>
-        <NavigationMenuLink className="bg-[#4CAF4F] px-[20] py-[10] text-white rounded-xl">FAQ</NavigationMenuLink>      </NavigationMenuContent>
+        <NavigationMenuLink className="bg-[#4CAF4F] px-[20px] py-[10px] text-white rounded-xl">Service</NavigationMenuLink>
+        <NavigationMenuLink className="bg-[#4CAF4F] px-[20px] py-[10px] text-white rounded-xl">Feature</NavigationMenuLink>
+        <NavigationMenuLink className="bg-[#4CAF4F] px-[20px] py-[10px] text-white rounded-xl">Product</NavigationMenuLink>
+        <NavigationMenuLink className="bg-[#4CAF4F] px-[20px] py-[10px] text-white rounded-xl">Testimonial</NavigationMenuLink>
+        <NavigationMenuLink className="bg-[#4CAF4F] px-[20px] py-[10px] text-white rounded-xl">FAQ</NavigationMenuLink>      </NavigationMenuContent>
     </NavigationMenuItem>
   </NavigationMenuList>
 </NavigationMenu>
@@ -58,7 +58,7 @@ const Navbar = () => {
    <div className="flex gap-4 lg:flex-row lg:gap-5">
  <button className="
  text-[#4CAF4F]">Login</button>
-   <button className="bg-[#4CAF4F] px-[20] py-[10] text-white rounded-xl">Sign up</button>
+   <button className="bg-[#4CAF4F] px-[20px] py-[10px] text-white rounded-xl">Sign up</button>
    </div>
     </nav>
 </header>
