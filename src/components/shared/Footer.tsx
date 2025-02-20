@@ -3,7 +3,7 @@ import { Input } from "@/components/ui/input"
 
 const Footer = () => {
     return (
-        <div className=" flex flex-col justify-evenly mx-auto bg-[#263238] w-full py-[165px] px-[64px] gap-[40px] lg:flex-row h-[328px]">
+        <div className=" flex flex-col justify-evenly mx-auto bg-[#263238] w-full py-[165px] px-[64px] gap-[40px] lg:flex-row h-328">
             {/* 1st part */}
             <div>
                 <div className="flex gap-2 " >
