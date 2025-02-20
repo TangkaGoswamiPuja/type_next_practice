@@ -18,7 +18,7 @@ const Homepage = () => {
         >
           <SwiperSlide>
             <div className=" bg-[#F5F7FA]  lg:flex items-center justify-between p-10">
-            <div className="py-20 px-[20] ">
+            <div className="py-[20px] px-[20] ">
                 <h1 className="text-[#4D4D4D]
   lg: text-[64px] font-[600]  leading-[76px]  ">Lessons and insights<br></br> <span className="text-[#4CAF4F]">from 8 years</span> </h1>
                 <p  className="text-[#717171] text-[16px] font-[400]">Where to grow your business as a photographer: site or social media?</p>
